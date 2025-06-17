@@ -5,7 +5,7 @@ This is a simple turn-based dice game built with HTML5, CSS, and vanilla JavaScr
 ![Game screenshot](assets/images/DiceGame.png)
 
 ## 🔗 Play the Game
-link: 
+link: https://afonsomassunari.github.io/DiceGame/
 
 ## 🚀 How to Play
 Two players take turns.
