@@ -4,6 +4,7 @@ This is a simple turn-based dice game built with HTML5, CSS, and vanilla JavaScr
 ## 📷 Preview 
 ![Game screenshot](assets/images/DiceGame.png)
 
+## 🔗 Play the Game
 link: 
 
 ## 🚀 How to Play
