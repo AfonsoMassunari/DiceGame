@@ -1,6 +1,11 @@
 # 🎲 Dice Game – HTML5, CSS & JavaScript
 This is a simple turn-based dice game built with HTML5, CSS, and vanilla JavaScript. The objective is to be the first player to reach 100 points!
 
+## 📷 Preview 
+![Game screenshot](assets/images/DiceGame.png)
+
+link: 
+
 ## 🚀 How to Play
 Two players take turns.
 
@@ -26,5 +31,3 @@ CSS3 – visual style and layout
 
 JavaScript (Vanilla) – game logic, turn handling, and events
 
-## 📷 Preview 
-![Game screenshot](assets/images/DiceGame.png)
